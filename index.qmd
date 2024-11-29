@@ -1,7 +1,13 @@
 ---
-title: "bmsacchi"
+about:
+  template: trestles
+  image: media/myFace.jpeg
+  links:
+  #  - icon: twitter
+   #   text: twitter
+    #  href: https://twitter.com
+     - text: Github
+       href: https://github.com/bmsacchi
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>
+Hi! Welcome to my website (under construction).
