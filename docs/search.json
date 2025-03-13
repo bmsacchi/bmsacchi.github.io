@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bianca Sacchi",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto | Toronto, ON, Canada PhD in Ecology & Evolutionary Biology | Sept 2018 - Present\nUniversity of Alberta | Edmonton, AB, Canada B.Sc. Hons Molecular Genetics | Sept 2014 - May 2018"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Bianca Sacchi",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]

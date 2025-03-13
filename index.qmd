@@ -3,11 +3,23 @@ about:
   template: trestles
   image: media/myFace.jpeg
   links:
-  #  - icon: twitter
-   #   text: twitter
-    #  href: https://twitter.com
+     - text: Linkedin
+       href: linkedin.com/in/bianca-sacchi
      - text: Github
        href: https://github.com/bmsacchi
 ---
 
 Hi! Welcome to my website (under construction).
+
+::: {#hero-heading}
+I am a PhD candidate in Stephen Wright's lab at U of T EEB. When I'm not working on sex chromosome evolution in plants, I enjoy birding, rock climbing, and hanging out with my cat.
+
+## Education
+
+University of Toronto \| Toronto, ON, Canada 
+PhD in Ecology & Evolutionary Biology \| Sept 2018 - Present
+
+University of Alberta \| Edmonton, AB, Canada
+B.Sc. Hons Molecular Genetics \| Sept 2014 - May 2018
+
+:::
